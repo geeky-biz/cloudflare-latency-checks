@@ -1,0 +1,20 @@
+{
+  "name": "cloudflare-latency-checks",
+  "version": "0.0.1",
+  "description": "Check latency for various sites on Cloudflare",
+  "main": "index.js",
+  "scripts": {
+    "measure": "node src/measure.js",
+    "results": "node src/results.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeky-biz/cloudflare-latency-checks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geeky-biz/cloudflare-latency-checks/issues"
+  },
+  "homepage": "https://github.com/geeky-biz/cloudflare-latency-checks#readme"
+}
